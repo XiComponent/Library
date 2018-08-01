@@ -1,0 +1,22 @@
+{
+  "name": "Test111",
+  "version": "0.1.0",
+  "summary": "A short description of Test111.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tardyRain/Test111",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tardyRain": "wuxinyu1@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/XiComponent/CnBubbleView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Test111/Classes/**/*"
+}
